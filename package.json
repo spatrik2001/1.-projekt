@@ -1,0 +1,23 @@
+{
+  "name": "1.-projekt",
+  "version": "1.0.0",
+  "description": "próba",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harmatosbikafing/1.-projekt.git"
+  },
+  "author": "Scheuer Patrik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harmatosbikafing/1.-projekt/issues"
+  },
+  "homepage": "https://github.com/harmatosbikafing/1.-projekt#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.1",
+    "typescript": "^4.4.3"
+  }
+}
